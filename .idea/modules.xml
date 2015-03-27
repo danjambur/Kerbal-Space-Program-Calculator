@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Launch Calculator.iml" filepath="$PROJECT_DIR$/.idea/Launch Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KSP Launch Calculator.iml" filepath="$PROJECT_DIR$/.idea/KSP Launch Calculator.iml" />
     </modules>
   </component>
 </project>
